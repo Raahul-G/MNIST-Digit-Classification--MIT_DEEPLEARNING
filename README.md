@@ -1,1 +1,1 @@
-# Music Genration--MIT_DEEPLEARNING
+# MNIST-Digit-classification--MIT_DEEPLEARNING
